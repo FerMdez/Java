@@ -1,6 +1,7 @@
 To run, you must compile the "launcher/Main.java" file, with one of the example arguments:
 
 Example command lines:
+	
 	//
 	-i resources/examples/ex1.json
 	-i resources/examples/ex1.json -t 300
