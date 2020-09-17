@@ -1,4 +1,4 @@
-To run, you must compile the "launcher/Main.java" file, with one of the example arguments:
+To run, you must compile the "src/simulator/launcher/Main.java" file, with one of the example arguments:
 
 Example command lines:
 	
