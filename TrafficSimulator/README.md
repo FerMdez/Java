@@ -18,4 +18,3 @@ Example command lines:
 ***
 ## Licencia 📄
 Educational Community License v2.0 (ECL-2.0).
-To run, you must compile the "src/.../Main.java" file as java aplication.
