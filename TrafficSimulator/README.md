@@ -6,7 +6,7 @@ Para uso exclusivo con fines de estudio. Se prohíbe su uso para entregas califi
 # Ejecución
 To run, you must compile the "src/simulator/launcher/Main.java" file as java aplication, with one of the example arguments:
 
-* Example command lines:
+Example command lines:
 	
 	//
 	-i resources/examples/ex1.json
